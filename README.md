@@ -1,1 +1,3 @@
 # Customer-Churn-Prediction
+
+Customer churn prediction is a machine learning project that aims to identify customers who are likely to cancel their subscription or stop using a company's products or services. The goal of the project is to identify at-risk customers as early as possible so that the company can take proactive measures to retain them. The project typically involves collecting and pre-processing customer data, such as demographics, purchase history, and usage patterns, training a predictive model on the data, and evaluating the model's performance on a test dataset. The model used for churn prediction could be various types of classifiers (logistic regression, decision tree, random forest, etc), depending on the complexity.
